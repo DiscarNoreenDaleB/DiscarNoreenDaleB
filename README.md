@@ -37,5 +37,5 @@ I am an **Information Technology student** with a flair for coding and database 
 
 ---
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/noreen-dale-discar-3869b4305/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] [(https://www.linkedin.com/in/noreen-dale-discar-3869b4305/)]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandelacruz@gmail.com)
