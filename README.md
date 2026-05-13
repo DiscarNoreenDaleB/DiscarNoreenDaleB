@@ -37,4 +37,4 @@ I am an **Information Technology student** with a flair for coding and database 
 
 ---
 ### 📫 Connect with Me
-[![Email](mailto:discarnoreendale4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-discarnoreendale4%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:discarnoreendale4@gmail.com)
