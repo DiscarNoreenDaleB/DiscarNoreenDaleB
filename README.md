@@ -36,3 +36,6 @@ I am an **Information Technology student** with a flair for coding and database 
 ![JasperReports](https://img.shields.io/badge/Jaspersoft-1769aa?style=for-the-badge)
 
 ---
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandelacruz@gmail.com)
